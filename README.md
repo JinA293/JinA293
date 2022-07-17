@@ -31,7 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinA293&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=JinA293&theme=tokyonight&show_icons=ture" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=JinA293&theme=dark" />
+  <img height="148px" src="https://github-readme-streak-stats.herokuapp.com/?user=JinA293&theme=dark" />
 <!--   <img height="150px" width="485px"src="https://activity-graph.herokuapp.com/graph?username=JinA293&theme=react-dark" alt="GitHub Commits Graph" /> -->
 </p>
 
