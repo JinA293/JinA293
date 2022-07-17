@@ -36,7 +36,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JinA293&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-
+<!--
 <p align="left">
   <a href="https://github.com/JinA293/JinA293/">
     <img src="https://komarev.com/ghpvc/?username=JinA293" alt="JinA293" />
@@ -48,3 +48,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img height="20" src="https://img.shields.io/github/followers/JinA293?label=follow&logo=github&style=flat" />
   </a>
 </p>
+-->
