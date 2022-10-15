@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jin Saito
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jin Saito!
 =====================================================================================================================================
 
 * 🌍  I live in Kanagawa, Japan
@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | [めんたつ](https://github.com/masachika-kamada/interview-practice) | オンライン面接に特化した面接練習アプリ。技育CAMPハッカソン優秀賞受賞。技育展優秀賞受賞。 |
 | [Henkenayzer](https://github.com/shimizuyuta/hackathon_vol5) | 顔写真から年齢・性別・性格などいろいろなことが分かっちゃうアプリ。技育CAMPハッカソン努力賞受賞。 |
 | [Clip-Roach](https://github.com/shimizuyuta/hackathon_vol4_0618)| 履歴の参照・一気に貼り付けなど機能がついた多機能クリップボードのGoogle拡張機能。技育CAMPハッカソン努力賞受賞。 |
-| [Tiem Manager!](https://github.com/JinA293/TimeManager-) | 定時にお知らせするDiscordBOT |
+| [Time Manager!](https://github.com/JinA293/TimeManager-) | 定時にお知らせするDiscordBOT |
 | Mynavi Internship | ハッカソン型インターンシップにおいて、チーム目玉焼きサンドでグッドチーム賞受賞。 |
 
 
