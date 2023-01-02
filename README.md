@@ -9,8 +9,8 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ## Products and others
 | Products | Abstract |
 | :-- | :-- |
-| [Shiftan](https://github.com/JinA293/shiftan-v2) | 飲食店等で利用できるシフト管理業務補助アプリ。技育展出場。 |
-| [しふたん](https://github.com/JinA293/shiftan) | 調整さんで作成したcsvからシフト表を作成するAI自動シフト表作成アプリ。 |
+| [Shiftan](https://github.com/nineteen2021/shiftan-v2) | 飲食店等で利用できるシフト管理業務補助アプリ。技育展出場。 |
+| [しふたん](https://github.com/nineteen2021/shiftan) | 調整さんで作成したcsvからシフト表を作成するAI自動シフト表作成アプリ。 |
 | [TheMovieDataBase Lite](https://github.com/JinA293/TheMovieDatabaseLite_cs50FinalProject) | 映画検索アプリ。現在上映中の映画やキーワード検索が可能でポスター、あらすじ、評価などを閲覧できる。|
 | [めんたつ](https://github.com/masachika-kamada/interview-practice) | オンライン面接に特化した面接練習アプリ。技育CAMPハッカソン優秀賞受賞。技育展優秀賞受賞。 |
 | [Henkenayzer](https://github.com/shimizuyuta/hackathon_vol5) | 顔写真から年齢・性別・性格などいろいろなことが分かっちゃうアプリ。技育CAMPハッカソン努力賞受賞。 |
