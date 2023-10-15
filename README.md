@@ -2,8 +2,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 =====================================================================================================================================
 
 * 🌍  I live in Kanagawa, Japan
-* 👨‍👨‍👦 I'm a representative of Peach.Tech and a deputy representative of Nineteen
-* 🧠 I'm learning React
+* 👨‍👨‍👦 I　was a representative of Peach.Tech.
 * ⚡ Motorbike　🏍
 
 ## Products and others
